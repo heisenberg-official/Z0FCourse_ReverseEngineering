@@ -1,4 +1,4 @@
-# Table Of Contents:
+# Index:
 * ### [License](LICENSE.md)
 * ### [FAQ](FAQ.md)
 * ### [Lingo](Lingo.md)
